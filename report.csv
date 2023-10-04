@@ -1,0 +1,39 @@
+,1,2,3,4,5,6,7
+0,Ledger Summary For 4/3/2023,,,,,,
+1,Guest Ledger Summary,,,,,,
+2,InHouse Account Summary:,,,,,-1343.1289000000088,
+3,CheckedOut Account Summary:,,,,,0.0,
+4,,,Closing Balance:,,,-1343.1289000000088,
+5,Account Receivable Ledger Summary,,,,,,
+6,Active Accounts Summary:,,,,,8005.569999999512,
+7,InActive Accounts Summary:,,,,,0.0,
+8,,,Closing Balance:,,,8005.569999999512,
+9,Advance Deposit Summary,,,,,,
+10,Reserved Guest Accounts Summary:,,,,,-588.8399999999999,
+11,,,Closing Balance:,,,-588.8399999999999,
+12,Deposit Ledger Summary,,,,,,
+13,InHouse Deposit Summary:,,,,,0.0,
+14,CheckedOut Deposit Summary:,,,,,0.0,
+15,Reserved Deposit Summary:,,,,,0.0,
+16,,,Closing Balance:,,,0.0,
+17,Group Ledger Summary,,,,,,
+18,Unallocate Group Payment Summary:,,,,,0.0,
+19,,,Closing Balance:,,,0.0,
+20,"Audit Detail As OfApr 03, 2023",,,,,,
+21,,Ledger Summary,,"Apr 02, 2023","Apr 03, 2023",,Difference
+22,,Guest Ledger,,-1528.531900000009,-1343.1289000000088,,185.39999999999986
+23,,Account Receivable Ledger,,7538.179999999498,8005.569999999512,,467.3899999999994
+24,,Advance Deposit,,-588.8399999999999,-588.8399999999999,,0
+25,,Inhouse Deposit,,0.0,0.0,,0
+26,,Group Payment,,0.0,,0.0,0
+27,,,,,,,652.7930000000142
+28,,Revenue & Collection,,,,,
+29,"Today Revenue As OfApr 03, 2023",,,,Total,,
+30,,Rent,,,1783.74,,
+31,,State Sales Tax,,,98.1793,,
+32,,City Tax,,,55.0541,,
+33,,County Tax,,,55.0541,,1992.02
+34,Today Collection As Of,,,,,,
+35,,(GL: 444.48)   Cash,,,-444.48,,
+36,,(GL: 894.68 | AD: 0.00)   Card,,,-894.68,,-1339.16
+37,,,,,,,652.86
